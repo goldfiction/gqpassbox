@@ -1,0 +1,2 @@
+alias encrypt="node index.js encrypt $1"
+alias decrypt="node index.js decrypt $1"
